@@ -1,4 +1,2 @@
-Include/
-Lib/
-Scripts/
+venv/
 pyvenv.cfg

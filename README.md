@@ -5,7 +5,7 @@ Development by __Gurkirt Pal Lakhesar__ and __Sebastian Joey Lamprecht__ at the 
 
 # Structure
 - vector.py
- - Class Point
+-  Class Point
  - Class Vector
  - Class CoordinateSystem
 - simulation.py

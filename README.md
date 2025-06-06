@@ -5,12 +5,12 @@ Development by __Gurkirt Pal Lakhesar__ and __Sebastian Joey Lamprecht__ at the 
 
 # Structure
 - vector.py
--  Class Point
- - Class Vector
- - Class CoordinateSystem
+  - Class Point
+  - Class Vector
+  - Class CoordinateSystem
 - simulation.py
 - gui.py
 - data/
- - solarsystem.json
- - eartsystem.json
- - test_twobodies.json
+  - solarsystem.json
+  - eartsystem.json
+  - test_twobodies.json
